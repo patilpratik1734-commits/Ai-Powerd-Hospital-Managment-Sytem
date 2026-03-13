@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\HospitalManagementAPI\\HospitalManagementAPI.csproj",
+      "projectUniqueName": "C:\\Users\\patil\\OneDrive\\Desktop\\🏥 AI Powered Hospital Management System\\HospitalManagementAPI\\HospitalManagementAPI.csproj",
       "projectName": "HospitalManagementAPI",
-      "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\HospitalManagementAPI\\HospitalManagementAPI.csproj",
+      "projectPath": "C:\\Users\\patil\\OneDrive\\Desktop\\🏥 AI Powered Hospital Management System\\HospitalManagementAPI\\HospitalManagementAPI.csproj",
       "packagesPath": "C:\\Users\\patil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\HospitalManagementAPI\\obj\\",
+      "outputPath": "C:\\Users\\patil\\OneDrive\\Desktop\\🏥 AI Powered Hospital Management System\\HospitalManagementAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
